@@ -32,7 +32,7 @@ Here’s a screenshot from one of the output videos:
 ## 🏋️ Training Notebooks
 - [Tennis Ball Detector with YOLO](https://drive.google.com/file/d/1ZsytnLsKckUcvxZmd-D3jjzrZnhX-bVa/view?usp=drive_link)
 - [Tennis Court Keypoints with PyTorch](https://drive.google.com/file/d/1GPbvMO3H2Mk1RYMR-UHWcTnf-aYymWKB/view?usp=drive_link)
-- [Tennis Ball fils](https://drive.google.com/drive/folders/1U028aGvyEAdlw4uHs4Agg-zt4C-TnYET?usp=drive_link)
+- [Tennis Ball dettection files](https://drive.google.com/drive/folders/1U028aGvyEAdlw4uHs4Agg-zt4C-TnYET?usp=drive_link)
 
 ---
 
