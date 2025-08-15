@@ -14,8 +14,7 @@ This hands-on project is perfect for polishing your **machine learning** and **c
 ## 📸 Output Example
 Here’s a screenshot from one of the output videos:  
 
-![Screenshot](output_videos/output_video.mp4)  
-
+![Screenshot](output_videos/Screenshot%202025-08-16%20013050.png)  
 ---
 
 ## 🧠 Models Used
