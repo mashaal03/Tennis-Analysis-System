@@ -6,14 +6,14 @@ This project analyzes Tennis players in a video to measure their speed, ball sho
 ## Output Videos
 Here is a screenshot from one of the output videos:
 
-![Screenshot](output_videos/screenshot.jpeg)
+![Screenshot](output_videos/Screenshot 2025-08-16 013050.png)
 
 ## Models Used
 * YOLO v8 for player detection
-* Fine Tuned YOLO for tennis ball detection
+* Fine Tuned YOLOv8 for tennis ball detection
 * Court Key point extraction
 
-* Trained YOLOV5 model: https://drive.google.com/file/d/1UZwiG1jkWgce9lNhxJ2L0NVjX1vGM05U/view?usp=sharing
+* Trained YOLOV8 model: https://drive.google.com/file/d/1UZwiG1jkWgce9lNhxJ2L0NVjX1vGM05U/view?usp=sharing
 * Trained tennis court key point model: https://drive.google.com/file/d/1QrTOF1ToQ4plsSZbkBs3zOLkVt3MBlta/view?usp=sharing
 
 ## Training
