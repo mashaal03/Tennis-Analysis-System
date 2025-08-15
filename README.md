@@ -13,7 +13,7 @@ Here is a screenshot from one of the output videos:
 * Fine Tuned YOLOv8 for tennis ball detection
 * Court Key point extraction
 
-* Trained YOLOV8 model: https://drive.google.com/file/d/1UZwiG1jkWgce9lNhxJ2L0NVjX1vGM05U/view?usp=sharing
+* Trained YOLOV8 model: [https://drive.google.com/file/d/1UZwiG1jkWgce9lNhxJ2L0NVjX1vGM05U/](https://drive.google.com/file/d/1aRoZyZ3thLkhL88AhXYhEgd12ETPKrHW/view?usp=drive_link)view?usp=sharing
 * Trained tennis court key point model: https://drive.google.com/file/d/1QrTOF1ToQ4plsSZbkBs3zOLkVt3MBlta/view?usp=sharing
 
 ## Training
