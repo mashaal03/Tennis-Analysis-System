@@ -30,8 +30,8 @@ Here’s a screenshot from one of the output videos:
 ---
 
 ## 🏋️ Training Notebooks
-- [Tennis Ball Detector with YOLO](training/tennis_ball_detector_training.ipynb)  
-- [Tennis Court Keypoints with PyTorch](training/tennis_court_keypoints_training.ipynb)  
+- [Tennis Ball Detector with YOLO](https://drive.google.com/file/d/1ZsytnLsKckUcvxZmd-D3jjzrZnhX-bVa/view?usp=drive_link)
+- [Tennis Court Keypoints with PyTorch](https://drive.google.com/file/d/1GPbvMO3H2Mk1RYMR-UHWcTnf-aYymWKB/view?usp=drive_link)
 
 ---
 
